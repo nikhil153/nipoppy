@@ -10,8 +10,10 @@ includehidden:
 titlesonly:
 caption: Overview
 ---
-installation
-quickstart
+overview/why_nipoppy
+overview/use_cases
+overview/installation
+overview/quickstart
 user_guide/index
 ```
 
